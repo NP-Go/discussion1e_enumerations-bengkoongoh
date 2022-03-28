@@ -13,6 +13,7 @@ const (
 	count1
 	count2
 	count3
+	count4
 )
 
 func main() {
@@ -23,5 +24,5 @@ func main() {
 	fmt.Println(count1)
 	fmt.Println(count2)
 	fmt.Println(count3)
-
+	fmt.Println(count4)
 }
